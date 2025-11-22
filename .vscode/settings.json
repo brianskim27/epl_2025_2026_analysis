@@ -1,0 +1,25 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "database": "EPL_2025_2026",
+            "username": "postgres",
+            "name": "EPL_2025_2026"
+        },
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "epl_2025_2026",
+            "database": "epl_2025_2026",
+            "username": "postgres"
+        }
+    ]
+}
