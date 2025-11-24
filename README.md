@@ -1,4 +1,4 @@
-AS OF 11/17/25 (11 matches played)
+This is my personal data analysis project where I analyzed the current EPL season (as of 11/17/2025) to find certain trends and behaviors among the teams and draw actionable conclusions.
 
 1. xG Over/Under-Performance (rank difference)
 
