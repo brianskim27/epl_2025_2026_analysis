@@ -52,4 +52,5 @@ Brighton’s numbers stand out: despite mid-table possession, they record one of
 
 A noteworthy trend emerges: 8 of the 10 teams with lower progressive passing reliance earn above-average points per match. While correlation does not imply causation, this suggests that teams who progress through carries - and therefore maintain more control between lines - may be rewarded with stronger overall performances.
 
+
 Using crosses and switches as proxies for width, Nottingham Forest, Tottenham, Newcastle, Wolves, Liverpool and Arsenal emerge as the most cross-heavy, wide-attacking sides. Fulham, Manchester United, Brighton and especially Burnley rely strongly on diagonal switches to stretch the pitch, even when their cross volume is more modest. In contrast, teams like Brentford, Aston Villa, Sunderland and Crystal Palace generate relatively few crosses and switches, suggesting a narrower, more central approach or simple lack of sustained wide possession.
