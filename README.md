@@ -1,4 +1,4 @@
-AS OF 11/17/25 (11 matches played)
+This is my personal data analysis project where I analyzed the current EPL season (as of 11/17/2025) to find certain trends and behaviors among the teams and draw actionable conclusions.
 
 1. xG Over/Under-Performance (rank difference)
 
@@ -51,5 +51,6 @@ At the opposite end are Manchester City (0.666), Arsenal (0.695), and Brighton (
 Brighton’s numbers stand out: despite mid-table possession, they record one of the highest progressive carry distances in the league, explaining their lower progressive pass share.
 
 A noteworthy trend emerges: 8 of the 10 teams with lower progressive passing reliance earn above-average points per match. While correlation does not imply causation, this suggests that teams who progress through carries - and therefore maintain more control between lines - may be rewarded with stronger overall performances.
+
 
 Using crosses and switches as proxies for width, Nottingham Forest, Tottenham, Newcastle, Wolves, Liverpool and Arsenal emerge as the most cross-heavy, wide-attacking sides. Fulham, Manchester United, Brighton and especially Burnley rely strongly on diagonal switches to stretch the pitch, even when their cross volume is more modest. In contrast, teams like Brentford, Aston Villa, Sunderland and Crystal Palace generate relatively few crosses and switches, suggesting a narrower, more central approach or simple lack of sustained wide possession.
